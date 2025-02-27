@@ -37,11 +37,11 @@ time.sleep(1)
 
 # Localizar o campo de login e inserir o valor
 login_field = driver.find_element(By.ID, "login")
-login_field.send_keys("v0016813")
+login_field.send_keys("segredo")
 
 # Localizar o campo de senha e inserir o valor
 password_field = driver.find_element(By.ID, "pass")
-password_field.send_keys("casa6042")
+password_field.send_keys("segredo")
 
 # Esperar para inserir o CAPTCHA (ou anti-robô manualmente)
 time.sleep(20)
