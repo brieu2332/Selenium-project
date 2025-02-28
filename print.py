@@ -1,6 +1,0 @@
-print("oi mundo")
-print(2+2)
-print("2+2")
-print('2' + '2')
-print('2''2')
-print('ola', 2)
